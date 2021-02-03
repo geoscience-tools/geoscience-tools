@@ -6,7 +6,7 @@ Collection of tools and resources from around the web. I have tested/used some, 
 
 - A list of opensource geoscience tools https://github.com/softwareunderground/awesome-open-geoscience#seismic-and-seismology
 
-
+- A list of machine learning tools https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence
 ### Geophysics
 
 - Open geophysics tools https://geosci.xyz/#home
